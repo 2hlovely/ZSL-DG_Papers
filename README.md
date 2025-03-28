@@ -4,7 +4,7 @@ Awesome-Zero-Shot-Learning-Domain-Generalization-Papers
 ## Paper List
 - [Knowledge distillation methods](#Knowledge distillation methods)
 - [Prompt-Driven methods](#Prompt-Driven methods)
-  
+- [Some Prompt-Learning Papers](#Some Prompt-Learning Papers)  
 
 (2020 ECCV)(CuMix)Towards Recognizing Unseen Categories in Unseen Domains
 
@@ -47,3 +47,9 @@ Awesome-Zero-Shot-Learning-Domain-Generalization-Papers
 
 ### Prompt-Driven methods
 -
+
+### Some Prompt-Learning Papers
+- (2022 IJCV)Learning to Prompt for Vision-Language Models
+- (2022 CVPR)Conditional Prompt Learning for Vision-Language Models
+- (2023 NeurIPS)LoCoOp: Few-Shot Out-of-Distribution Detection via Prompt Learning
+- (2024 CVPR)(CZSL paper)Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning
