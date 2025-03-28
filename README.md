@@ -34,13 +34,13 @@ Awesome-Zero-Shot-Learning-Domain-Generalization-Papers
 
 (2024 CVPR)Source-Free Domain Adaptation with Frozen Multimodal Foundation Model
 
+(2024 ECCV)Generalizing to Unseen Domains via Text-guided Augmentation
+
 (2025 ECCV)(GalLoP)GalLoP Learning Global and Local Prompts for Vision-Language Models
 
 (2025 ECCV)(SPG)Soft Prompt Generation for Domain Generalization
 
-(2024 ECCV)Generalizing to Unseen Domains via Text-guided Augmentation
-
-(2024 ECCV)Learn to Preserve and Diversify Orthogonal Regularization for Domain Generalization
+(2025 ECCV)Learn to Preserve and Diversify Orthogonal Regularization for Domain Generalization
 
 ### Knowledge distillation methods
 -
