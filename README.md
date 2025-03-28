@@ -1,6 +1,11 @@
 # ZSL-DG_Papers
 Awesome-Zero-Shot-Learning-Domain-Generalization-Papers
 
+## Paper List
+- [Knowledge distillation methods](#Knowledge distillation methods)
+- [Prompt-Driven methods](#Prompt-Driven methods)
+  
+
 (2020 ECCV)(CuMix)Towards Recognizing Unseen Categories in Unseen Domains
 
 (2021 BMVC)Structured Latent Embeddings for Recognizing Unseen Classes in Unseen Domains
@@ -37,3 +42,8 @@ Awesome-Zero-Shot-Learning-Domain-Generalization-Papers
 
 (2024 ECCV)Learn to Preserve and Diversify Orthogonal Regularization for Domain Generalization
 
+### Knowledge distillation methods
+-
+
+### Prompt-Driven methods
+-
